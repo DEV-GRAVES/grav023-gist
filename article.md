@@ -151,5 +151,3 @@ Some of those barriers have been around so long that they've become part of how 
 Could we do it differently? Could we simplify it? Could we eliminate the step altogether?
 
 And when you see an opportunity, share it. Challenge the assumption, bring others into the conversation, and take an active role in making the work better. You have more ability to influence how work gets done than you might realize.
-
-**The real jackpot wasn't the process we improved, but the people who discovered they had the power to improve every process they touch next.**
