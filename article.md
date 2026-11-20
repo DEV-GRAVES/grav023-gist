@@ -1,6 +1,6 @@
 # Learning to See. Empowered to Transform.
 
-*Chris Graves, Global Senior Manager of Continuous Improvement at the supply chain giant Arvato, tells us how he and vastly expanding team around him, writes in his story of how Lean thinking, digital innovation, and shared ownership came together to create a better way of working.*
+*We asked Chris Graves, Global Senior Manager of Continuous Improvement at the supply chain giant Arvato, to write in his story of how Lean thinking, digital innovation, and shared ownership came together to create a better way of working.*
 
 ## Are we the integration layer?
 
